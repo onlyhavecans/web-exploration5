@@ -1,0 +1,76 @@
+baseURL = "https://blog.exploration5.games/"
+languageCode = "en-us"
+title = "The Adventures of Exploration #5"
+theme = "minimo"
+
+disqusShortname = ""
+googleAnalytics = ""
+
+Paginate = 15
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+defaultContentLanguage = "en"
+
+[params.info]
+description = "Come on an adventure with us"
+title404 = "Nothing's here!"
+
+[params.assets]
+favicon = "favicon.ico"
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "David Aronsohn"
+startYear = "2017"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+hideSocialMenu = false
+showReadingTime = true
+
+[params.opengraph.twitter]
+page = "OnlyHaveCans" # Twitter page username
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+github = "OnlyHaveCans"
+twitter = "OnlyHaveCans"
+
+[params.social.config]
+platforms = ["github","twitter"]
+
+[taxonomies]
+author = "authors"
+category = "categories"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+# [[menu.main]]
+# name = "Repo"
+# weight = -10
+# identifier = "repository"
+# url = "https://github.com/MunifTanjim/minimo"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
