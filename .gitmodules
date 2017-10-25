@@ -1,9 +1,3 @@
-[submodule "themes/minimo"]
-	path = themes/minimo
-	url = https://github.com/MunifTanjim/minimo
-[submodule "themes/journal"]
-	path = themes/journal
-	url = https://github.com/damiencaselli/hugo-journal
 [submodule "themes/xmin"]
 	path = themes/xmin
 	url = https://github.com/yihui/hugo-xmin
