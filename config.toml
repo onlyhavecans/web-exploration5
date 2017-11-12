@@ -8,16 +8,16 @@ footnotereturnlinkcontents = "↩"
 ignoreFiles = ["_template.md"]
 preserveTaxonomyNames = true
 
-# [permalinks]
-#     post = "/recap/:year-:month-:day/:slug"
-#     note = "/note/:year-:month-:day/:slug"
-
 [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "Games"
+    name = "Campaign Notes"
+    url = "/campaign-notes/"
+    weight = 2
+[[menu.main]]
+    name = "Categories"
     url = "/categories/"
     weight = 3
 [[menu.main]]
