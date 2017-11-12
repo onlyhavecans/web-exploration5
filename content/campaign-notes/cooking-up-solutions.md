@@ -5,3 +5,21 @@ draft: true
 ---
 
 SOON!
+
+## System
+GURPS
+
+## Setting
+Cyberpunk corperate dystopia sybotage & subvert
+
+## Major Issues
+*
+
+## Impending Issue
+
+## Faces & Places
+| name | issues |
+| --- | --- |
+
+## Dials
+
