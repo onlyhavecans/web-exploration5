@@ -3,14 +3,14 @@ languageCode = "en-us"
 title = "The Adventures of Exploration #5"
 theme = "xmin"
 
-ignoreFiles = ["_template.md"]
-
-preserveTaxonomyNames = true
+# disqusShortname = ""
 footnotereturnlinkcontents = "↩"
+ignoreFiles = ["_template.md"]
+preserveTaxonomyNames = true
 
 # [permalinks]
-#     post = "/post/:year/:month/:day/:slug/"
-#     note = "/note/:year/:month/:day/:slug/"
+#     post = "/recap/:year-:month-:day/:slug"
+#     note = "/note/:year-:month-:day/:slug"
 
 [[menu.main]]
     name = "Home"
