@@ -17,7 +17,7 @@ a good game for not so good peope
 None yet
 
 ## Impending Issue
-NCR has under the table hired the team to clean up the correctional facility
+NCR has under the table acked the team to inviestigate Nipton while they are procurring Strip passes
 
 ## Faces & Places
 name                   | Summary                                                   | Team Role
@@ -33,6 +33,11 @@ Nic                    | Traveling Merc                                         
 Jim & Mark             | Traveling Merchants                                       | Got their caravan saved by the team
 Jenkins/Hutson         | Works at NCR south station                                | Hates the correctional facility and inmates bc lost friend
 Sgt Mickelson          | Officer at NCR South station                              | Has lent and made agreements to have the prison cleaned up
+Nipton                 | Run down town just NE of NCR South Station                | A place to pick up drinks & company
+McCarrens (Nipton)     | Custom Robot work shop and private club                   | JJ stole a part & Mr Barker & Harriette took a thust at the club
+Jimmy (NRC)            | Demolitions expert & card shark                           | Taught Mr. Barker a thing or two about slight of hand
+Maria (NCR)            | sniper & base scout                                       | Met Harriette and talked to her about recent events
+The Wolf               | someone a prostitute spoke omniously to JJ about          | ??
 
 ## Resources
 * [GURPS Basic Set Characters](http://www.sjgames.com/gurps/books/Basic/)
