@@ -20,12 +20,14 @@ Cyberpunk corperate dystopia sybotage & subvert
 
 
 ## Faces & Places
-| name | issues |
-| --- | --- |
+name              | issues
+---               | ---
+Billy             | ---
+Reston Rezi Storr | ---
+River Dredd       | ---
 
 
 ## Dials
-
 
 * All players are human or augmented humans
 * No No Psi or zeeps
