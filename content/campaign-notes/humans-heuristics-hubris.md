@@ -33,6 +33,8 @@ Cyberpunk corperate dystopia sybotage & subvert
 
 ### Skills
 
+skills      | are       | really    | cool
+---         | ---       | ---       | ---
 Academics   | Athletics | Burglary  | Contacts
 Deceive     | Empathy   | Fight     | Hack
 Investigate | Notice    | Physique  | Pilot
