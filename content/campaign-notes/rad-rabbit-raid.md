@@ -13,6 +13,8 @@ The setting is where nearby to the warren has been an old farmhouse for as long 
 
 ## Major Issues
 * The King has now gone missing in the night
+* The Queen is up to no good!
+* Oregano has persuers!
 
 ## Impending Issue
 
@@ -34,6 +36,8 @@ Tulip               | watching chamber night king went missing | suspended
 The Queen           | missing king                             | ???
 Arclight            | Warren King was in talks with            | ???
 Paprika             | Watching the team                        | unflappable
+Marigold            | Scout from the night king went missing   | spooked
+Lily                | large guard, big fan of mint             | On the side of newness
 
 
 
