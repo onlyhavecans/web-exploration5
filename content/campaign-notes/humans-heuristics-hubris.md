@@ -10,11 +10,11 @@ FateCore w/ Interface Zero 2.0
 
 ## Setting
 
-Cyberpunk corperate dystopia sybotage & subvert
+Cyberpunk corporate dystopia sabotage & subvert
 
 ### Major Issues
 
-1. The United Coperations of America are overstepping their bounds and using people as resources to expend
+1. The United Corporations of America are overstepping their bounds and using people as resources to expend
 
 ### Impending Issue
 
