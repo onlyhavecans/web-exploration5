@@ -38,13 +38,13 @@ Nikkon has a plan to take down a large manufacturing plant in the town that is o
 
 ### Skills
 
-skills      | are       | really    | cool
----         | ---       | ---       | ---
-Academics   | Athletics | Burglary  | Contacts
-Deceive     | Empathy   | Fight     | Hack
-Investigate | Notice    | Physique  | Pilot
-Provoke     | Rapport   | Resources | Shoot
-Stealth     | Survival  | Tech      | Will
+|   skills    |    are    |  really   |   cool   |
+| :---------: | :-------: | :-------: | :------: |
+|  Academics  | Athletics | Burglary  | Contacts |
+|   Deceive   |  Empathy  |   Fight   |   Hack   |
+| Investigate |  Notice   | Physique  |  Pilot   |
+|   Provoke   |  Rapport  | Resources |  Shoot   |
+|   Stealth   | Survival  |   Tech    |   Will   |
 
 Skill changes from FateCore vanilla
 
