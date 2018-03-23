@@ -22,14 +22,14 @@ Nikkon has a plan to take down a large manufacturing plant in the town that is o
 
 ### Faces & Places
 
-      name        |      issues
------------------ | -----------------
-Billy             | ---
-Reston Rezi Storr | ---
-River Dredd       | ---
-Jackson           | Rezi's old mentor
-Nikkon            | Old Low-Tech
-Toor              | Low-Tech,
+|       name        |            issues            |
+| ----------------- | ---------------------------- |
+| Billy             |                              |
+| Reston Rezi Storr |                              |
+| River Dredd       |                              |
+| Jackson           | Rezi's old mentor            |
+| Nikkon            | Old Low-Tech                 |
+| Toor              | Low-Tech, Nikkon's "partner" |
 
 ## Dials
 
