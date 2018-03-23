@@ -1,11 +1,8 @@
 ---
 title: 'Campaign Notes: Spurs Jimmying & Jangling'
 categories: ["Spurs Jimmying & Jangling"]
+toc: true
 ---
-
-## System
-
-GURPS
 
 ## Setting
 
@@ -44,13 +41,17 @@ NCR has under the table acked the team to inviestigate Nipton while they are pro
 | Maria (NCR)            | sniper & base scout                                       | Met Harriette and talked to her about recent events              |
 | The Wolf               | someone a prostitute spoke omniously to JJ about          | ??                                                               |
 
-## Resources
+## System
+
+GURPS 4.x w/ Psionic Powers & Gurps Fallout
+
+### Resources
 
 * [GURPS Basic Set Characters](http://www.sjgames.com/gurps/books/Basic/)
 * [GURPS Psionic Powers](http://www.sjgames.com/gurps/books/psionicpowers/)
 * [GURPS Fallout Compilation](http://gurps.fallout.free.fr/)
 * [Campaign Prospectus](/pdf/2017/SJJ-Campaign-Prospectus.pdf)
 
-## Dials
+### Dials
 
 * Computer Hacking is IQ/Average Default IQ-5

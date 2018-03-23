@@ -1,12 +1,8 @@
 ---
 title: 'Campaign Notes: Humans, Hubris, & Hour of the Fall'
 categories: ["Humans, Hubris, & Hour of the Fall"]
-draft: false
+toc: true
 ---
-
-## System
-
-FateCore w/ Interface Zero 2.0
 
 ## Setting
 
@@ -31,7 +27,11 @@ Nikkon has a plan to take down a large manufacturing plant in the town that is o
 | Nikkon            | Old Low-Tech                 |
 | Toor              | Low-Tech, Nikkon's "partner" |
 
-## Dials
+## System
+
+FateCore w/ Interface Zero 2.0
+
+### Dials
 
 * All players are human or augmented humans
 * No No Psi or zeeps
@@ -53,3 +53,5 @@ Skill changes from FateCore vanilla
 * Drive becomes Pilot.
 * Add Hack.
 * Add Survival.
+
+---

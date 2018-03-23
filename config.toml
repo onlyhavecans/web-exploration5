@@ -1,16 +1,26 @@
 baseURL = "https://exploration5.games/"
 languageCode = "en-us"
 title = "The Adventures of Exploration #5"
-theme = "xmin"
+theme = "whiteplain"
 
-# disqusShortname = ""
 footnotereturnlinkcontents = "↩"
 ignoreFiles = ["_template.md"]
 preserveTaxonomyNames = true
 
+copyright = "&copy; David Aronsohn 2017-2018"
+description = "Come along with us for an Adventure"
+
+# This is all displayed on author
+[params.author]
+    name = "David Aronsohn"
+    twitter = "OnlyHaveCans"
+    github = "OnlyHaveCans"
+    gitlab = "OnlyHaveCans"
+
+# Header
 [[menu.main]]
-    name = "Home"
-    url = "/"
+    name = "About"
+    url = "/about/"
     weight = 1
 [[menu.main]]
     name = "Campaign Notes"
@@ -20,10 +30,11 @@ preserveTaxonomyNames = true
     name = "Categories"
     url = "/categories/"
     weight = 3
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
-[params]
-    description = "Come along with us for an Adventure"
-    footer = "&copy; David Aronsohn 2017- | [Github](https://github.com/onlyhavecans) | [Twitter](https://twitter.com/onlyhavecans)"
+
+# Footer Menu
+[[menu.footer]]
+  name = "About"
+  weight = 1
+  identifier = "about"
+  url = "/about/"
