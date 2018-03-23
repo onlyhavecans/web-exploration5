@@ -53,5 +53,3 @@ Skill changes from FateCore vanilla
 * Drive becomes Pilot.
 * Add Hack.
 * Add Survival.
-
----
