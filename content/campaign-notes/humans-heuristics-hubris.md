@@ -5,33 +5,36 @@ draft: false
 ---
 
 ## System
+
 FateCore w/ Interface Zero 2.0
 
-
 ## Setting
+
 Cyberpunk corperate dystopia sybotage & subvert
 
+### Major Issues
 
-## Major Issues
-*
+1. The United Coperations of America are overstepping their bounds and using people as resources to expend
 
+### Impending Issue
 
-## Impending Issue
+Nikkon has a plan to take down a large manufacturing plant in the town that is overstepping it's resource usage and polluting the area.
 
+### Faces & Places
 
-## Faces & Places
-name              | issues
----               | ---
+      name        |      issues
+----------------- | -----------------
 Billy             | ---
 Reston Rezi Storr | ---
 River Dredd       | ---
-
+Jackson           | Rezi's old mentor
+Nikkon            | Old Low-Tech
+Toor              | Low-Tech,
 
 ## Dials
 
 * All players are human or augmented humans
 * No No Psi or zeeps
-
 
 ### Skills
 
@@ -43,7 +46,7 @@ Investigate | Notice    | Physique  | Pilot
 Provoke     | Rapport   | Resources | Shoot
 Stealth     | Survival  | Tech      | Will
 
-Skill changes from Fate vanilla
+Skill changes from FateCore vanilla
 
 * Lore becomes Academics.
 * Crafts becomes Tech.
