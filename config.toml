@@ -7,12 +7,12 @@ footnotereturnlinkcontents = "↩"
 ignoreFiles = ["_template.md"]
 preserveTaxonomyNames = true
 
-copyright = "&copy; David Aronsohn 2017-2018"
+copyright = "&copy; Amy Aronsohn 2017-2018"
 description = "Come along with us for an Adventure"
 
 # This is all displayed on author
 [params.author]
-    name = "David Aronsohn"
+    name = "Amy Aronsohn"
     twitter = "OnlyHaveCans"
     github = "OnlyHaveCans"
     gitlab = "OnlyHaveCans"
