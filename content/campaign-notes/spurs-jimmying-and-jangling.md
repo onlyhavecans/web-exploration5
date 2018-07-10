@@ -14,14 +14,16 @@ A good game for not so good peope
 
 ### Major Issues
 
-None yet
+- Want to get on the strip
+- Vault 420 may being sealed
 
 ### Impending Issue
 
 - Hassid is dead
-- Vault 420 is possibly going to close down becasue of the death.
 - Basil Found a Brotherhood of Steel signal in the mountain.
 - High grade assasins attempted to take out the team when trying to make the Thorn Drop.
+
+## faces and placees
 
 ### Team
 
