@@ -54,6 +54,7 @@ Sarah          | Vault 420 Mechanic. Mr's barker's Best Friend
 Dave           | Vault 420 Medic. He's not here
 Michelle       | new 420 Liason
 Nathan         | vault 420 Facilities (HR)
+Nikki          | Thorn Liason
 
 ### Places
 
