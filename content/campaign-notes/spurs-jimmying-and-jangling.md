@@ -15,13 +15,14 @@ A good game for not so good peope
 ### Major Issues
 
 - Want to get on the strip
-- Vault 420 may being sealed
+- Want to join the Thorn
 
 ### Impending Issue
 
 - Hassid is dead
 - Basil Found a Brotherhood of Steel signal in the mountain.
 - High grade assasins attempted to take out the team when trying to make the Thorn Drop.
+- The Rats are just destroying Freeside
 
 ## faces and placees
 
@@ -55,6 +56,8 @@ Dave           | Vault 420 Medic. He's not here
 Michelle       | new 420 Liason
 Nathan         | vault 420 Facilities (HR)
 Nikki          | Thorn Liason
+The King       | Leader of the kings
+Jimmy Suide    | The King's dealer/vendor
 
 ### Places
 
@@ -66,6 +69,7 @@ Nipton             | Run down town just NE of NCR South Station. A place to pick
 McCarrens (Nipton) | Custom Robot work shop and private club. JJ stole a part & Mr Barker & Harriette took a thust at the club
 Vault 420          | Vault in freeside: marajuana test. Very frendly
 Old Thorn Base     | Irradiated and full of ghouls. Plan B: Never go here again
+Vault 22           | rats vault
 
 ## System
 
