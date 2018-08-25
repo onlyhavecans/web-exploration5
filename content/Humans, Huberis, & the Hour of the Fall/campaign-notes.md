@@ -1,7 +1,5 @@
 ---
-title: 'Campaign Notes: Humans, Hubris, & Hour of the Fall'
-categories: ["Humans, Hubris, & Hour of the Fall"]
-toc: true
+title: 'Campaign Notes'
 ---
 
 ## Setting

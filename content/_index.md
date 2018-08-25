@@ -1,6 +1,4 @@
----
-title: 'Come along with us for an Adventure'
----
+# Come along with us for an Adventure
 
 This is a collection of all my game sessions and notes going forward from 2017.
 

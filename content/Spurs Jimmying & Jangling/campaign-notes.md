@@ -1,7 +1,5 @@
 ---
-title: 'Campaign Notes: Spurs Jimmying & Jangling'
-categories: ["Spurs Jimmying & Jangling"]
-toc: true
+title: 'Campaign Notes'
 ---
 
 ## Setting

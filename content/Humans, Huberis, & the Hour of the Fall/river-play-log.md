@@ -1,8 +1,6 @@
 ---
-title: 'Humans, Hubris, & Hour of the Fall: River Dredd Play Log'
+title: 'River Dredd Play Log'
 date: 2017-12-27
-categories: ["Humans, Hubris, & Hour of the Fall"]
-draft: false
 ---
 
 ## Setting

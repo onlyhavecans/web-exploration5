@@ -1,7 +1,5 @@
 ---
-title: 'Campaign Notes: Rad Rabbit Raid'
-categories: ["Rad Rabbit Raid"]
-toc: true
+title: 'Campaign Notes'
 ---
 
 ## Setting
