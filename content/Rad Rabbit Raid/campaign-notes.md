@@ -1,5 +1,6 @@
 ---
 title: 'Campaign Notes'
+weight: 100
 ---
 
 ## Setting
