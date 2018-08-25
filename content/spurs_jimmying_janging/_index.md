@@ -22,7 +22,7 @@ A good game for not so good peope
 - High grade assasins attempted to take out the team when trying to make the Thorn Drop.
 - The Rats are just destroying Freeside
 
-## faces and placees
+## Faces & Placees
 
 ### Team
 
@@ -83,3 +83,7 @@ GURPS 4.x w/ Psionic Powers & Gurps Fallout
 ### Dials
 
 - Computer Hacking is IQ/Average Default IQ-5
+
+## Reference
+
+* [Original World Map](www.digital-utopia.org/newvegas/)
