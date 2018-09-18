@@ -20,6 +20,8 @@ A good game for not so good peope
 - High grade assasins attempted to take out the team when trying to make the Thorn Drop.
 - Invited to work for and maybe join The Kings
 - They have been invoted back to "the House" by a robot that called it "My Strip" once they are done "Playing with the Thorn."
+- Mr Barker has some clues for RobCo factory
+- The NCR has sent out the team to investigater Nipton... and the team never game back
 
 ## Faces & Placees
 
@@ -46,11 +48,12 @@ Jimmy (NRC)    | Demolitions expert & card shark. Taught Mr. Barker a thing or t
 Maria (NCR)    | sniper & base scout. Met Harriette and talked to her about recent events
 The Wolf       | a prostitute spoke omniously to JJ about him. Had a freakey encounter in a church
 Ferris         | former thorn, works for the Followers. Likes Mr Barker
+Mick & Ralph   | Dealers of a lot of trouble, traded a football for forged strip passes that almost didn't pass
 Jebodiah       | Vault 420 agrocusturalist. Actually the overseer
 Hassid         | Vault 420 liason. He's dead now
-Sarah          | Vault 420 Mechanic. Mr's barker's Best Friend
+Sarah          | Vault 420 Mechanic. Mr's barker's Best Friend. Has offered to go adventuring w/ Mr Barker
 Dave           | Vault 420 Medic. He's not here
-Michelle       | new 420 Liason
+Michelle       | New 420 Liason
 Nathan         | vault 420 Facilities (HR)
 Nikki          | Thorn Liason
 The King       | Leader of the kings
