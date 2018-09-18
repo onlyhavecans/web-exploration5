@@ -12,15 +12,14 @@ A good game for not so good peope
 
 ### Major Issues
 
-- Want to get on the strip
 - Want to join the Thorn
 
 ### Impending Issue
 
-- Hassid is dead
 - Basil Found a Brotherhood of Steel signal in the mountain.
 - High grade assasins attempted to take out the team when trying to make the Thorn Drop.
-- The Rats are just destroying Freeside
+- Invited to work for and maybe join The Kings
+- They have been invoted back to "the House" by a robot that called it "My Strip" once they are done "Playing with the Thorn."
 
 ## Faces & Placees
 
@@ -68,6 +67,9 @@ McCarrens (Nipton) | Custom Robot work shop and private club. JJ stole a part & 
 Vault 420          | Vault in freeside: marajuana test. Very frendly
 Old Thorn Base     | Irradiated and full of ghouls. Plan B: Never go here again
 Vault 22           | rats vault
+New Vegas Strip    | A shockingly different placew
+The House          | A glitzy upscale place they have been invited back to by a weird robot
+Jimmy's Casino     | A mobster based casino they got tossed from by mentioning the thorn
 
 ## System
 
@@ -86,4 +88,4 @@ GURPS 4.x w/ Psionic Powers & Gurps Fallout
 
 ## Reference
 
-* [Original World Map](www.digital-utopia.org/newvegas/)
+[Original World Map](www.digital-utopia.org/newvegas/)
