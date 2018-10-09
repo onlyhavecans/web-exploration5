@@ -73,6 +73,8 @@ Vault 22           | rats vault
 New Vegas Strip    | A shockingly different placew
 The House          | A glitzy upscale place they have been invited back to by a weird robot
 Jimmy's Casino     | A mobster based casino they got tossed from by mentioning the thorn
+The High Roller    | A motel converted into a low key casino
+The Gloved Fist    | A elite and fancy casino
 
 ## System
 
