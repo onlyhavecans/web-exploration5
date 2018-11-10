@@ -8,37 +8,36 @@ The setting is where nearby to the warren has been an old farmhouse for as long 
 
 ### Major Issues
 
-* The King has now gone missing in the night
 * The Queen is up to no good
 * The King has given the team a new mission
 
 ### Impending Issue
 
 * Fox attack at the main exit
-* Oregano has split from the party
 * Thundar sees Oregano chumming with the other warren
+* The King is Dead
 
 ### Faces & Places
 
-   name     |                  issues                  |                                                  aspect
------------ | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------
-Mint        | Diva Herbalist                           | You must pay attention to me
-Oregano     | Jaded Engineer                           | I've seen this before
-Thundar     | Arrogant Scout                           | I have to be the fastest
-Two         | Dim Fighter                              | I forgot
-HeyYou      | traumatized scout                        | Whoah I have kits?
-The King    | worried about his buns                   | ???
-Garden      | Territorial birds, human dolls           | Fenced in, Berries!, All the food
-Big Red     | Closed off                               | This isn't normal, Hay Everywh, Hayvalanche
-Main Burrow | needs more food                          | Known Exits; Southeast exit (lake), SouthWest exit (field), Northwest exit (forrest), Northeast (forrest)
-Jimmy       | chill guard                              | helping Two
-Sunflower   | watching chamber night king went missing | suspended
-Tulip       | watching chamber night king went missing | suspended
-The Queen   | missing king                             | ???
-Arclight    | Warren King was in talks with            | ???
-Paprika     | Watching the team                        | unflappable
-Marigold    | Scout from the night king went missing   | spooked
-Lily        | large guard, big fan of mint             | On the side of newness
+name      | issues                                   | aspect
+---       | ---                                      | ---
+Mint      | Diva Herbalist                           | You must pay attention to me
+Oregano   | Jaded Engineer                           | I've seen this before
+Thundar   | Arrogant Scout                           | I have to be the fastest
+Two       | Dim Fighter                              | I forgot
+HeyYou    | traumatized scout                        | Whoah I have kits?
+The King  | Dead                                     | ???
+Garden    | Territorial birds, human dolls           | Fenced in, Berries!, All the food
+Big Red   | Closed off                               | This isn't normal, Hay Everywh, Hayvalanche
+Arclight  | needs more food                          | Known Exits; Southeast exit (lake), SouthWest exit (field), Northwest exit (forrest), Northeast (forrest)
+Jimmy     | chill guard                              | helping Two
+Sunflower | watching chamber night king went missing | suspended
+Tulip     | watching chamber night king went missing | suspended
+The Queen | missing king                             | ???
+Spagett   | Warren King was in talks with            | ???
+Paprika   | Watching the team                        | unflappable
+Marigold  | Scout from the night king went missing   | spooked
+Lily      | large guard, big fan of mint             | On the side of newness
 
 ## System
 
@@ -50,8 +49,8 @@ All default Fate Core starting stats
 
 ### Skills
 
-|       skills        |     are      |     cool     |
-| ------------------- | ------------ | ------------ |
+| skills              | are          | cool         |
+| ---                 | ---          | ---          |
 | Tumbling(Athletics) | Investigate  | Stealth      |
 | Precision(Burglary) | Humans(lore) | Will         |
 | Contacts            | Notice       | BunFu(Fight) |
