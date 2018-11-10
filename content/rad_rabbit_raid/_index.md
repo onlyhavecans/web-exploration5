@@ -8,14 +8,12 @@ The setting is where nearby to the warren has been an old farmhouse for as long 
 
 ### Major Issues
 
-* The Queen is up to no good
-* The King has given the team a new mission
+* The Queen sent out the party to find The King
+* The King is Dead
 
 ### Impending Issue
 
-* Fox attack at the main exit
-* Thundar sees Oregano chumming with the other warren
-* The King is Dead
+* It's time to tell the Queen
 
 ### Faces & Places
 
@@ -38,6 +36,7 @@ Spagett   | Warren King was in talks with            | ???
 Paprika   | Watching the team                        | unflappable
 Marigold  | Scout from the night king went missing   | spooked
 Lily      | large guard, big fan of mint             | On the side of newness
+
 
 ## System
 
