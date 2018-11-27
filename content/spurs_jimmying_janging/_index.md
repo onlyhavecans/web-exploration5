@@ -58,6 +58,9 @@ Nathan         | vault 420 Facilities (HR)
 Nikki          | Thorn Liason
 The King       | Leader of the kings
 Jimmy Suide    | The King's dealer/vendor
+Gabriel        | Appointed Thorn Agent
+Groog          | Supermutant Thorn talent
+Original Vault | Thorn team
 
 ### Places
 
