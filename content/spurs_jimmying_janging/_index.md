@@ -61,6 +61,7 @@ Jimmy Suide    | The King's dealer/vendor
 Gabriel        | Appointed Thorn Agent
 Groog          | Supermutant Thorn talent
 Original Vault | Thorn team
+Essa | Operator of Vault Hotel & Casino
 
 ### Places
 
@@ -78,6 +79,7 @@ The House          | A glitzy upscale place they have been invited back to by a 
 Jimmy's Casino     | A mobster based casino they got tossed from by mentioning the thorn
 The High Roller    | A motel converted into a low key casino
 The Gloved Fist    | A elite and fancy casino
+Vault H&C | A hotel & casino made from an old vault based on gaming, extra large
 
 ## System
 
