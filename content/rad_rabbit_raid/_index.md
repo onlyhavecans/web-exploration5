@@ -37,7 +37,6 @@ Paprika   | Watching the team                        | unflappable
 Marigold  | Scout from the night king went missing   | spooked
 Lily      | large guard, big fan of mint             | On the side of newness
 
-
 ## System
 
 FateCore w/ Bunnies & Burrows
