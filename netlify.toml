@@ -3,6 +3,6 @@ publish = "public"
 command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.80.0"
+  HUGO_VERSION = "0.81.1"
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.80.0"
+  HUGO_VERSION = "0.88.1"

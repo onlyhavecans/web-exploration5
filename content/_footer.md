@@ -1,1 +1,1 @@
-&copy; Amy Aronsohn 2017-2018
+&copy; Amelia Aronsohn 2017-2021
