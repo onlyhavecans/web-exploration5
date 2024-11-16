@@ -1,10 +1,4 @@
 ---
-title: "{{ replace .name "-" " " | title }}"
-date: {{ .date }}
-draft: true
-categories: 
+title: {{ replace .File.ContentBaseName "-" " " | title }}
+date: {{ .Date }}
 ---
-
-## Feedback
-
-*

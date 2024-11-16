@@ -1,0 +1,13 @@
+baseURL = "https://exploration5.games"
+languageCode = "en-us"
+title = "Exploration #5"
+theme = "hugo-theme-relearn"
+
+
+[params]
+themeVariant = 'zen-light'
+
+[outputs]
+home = ['html', 'rss', 'print']
+page = ['html', 'rss', 'print']
+section = ['html', 'rss', 'print']

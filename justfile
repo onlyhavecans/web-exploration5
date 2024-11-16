@@ -5,14 +5,12 @@ default:
 
 test:
   open http://localhost:1313
-  hugo server --buildDrafts --navigateToChanged
+  hugo server --disableFastRender --navigateToChanged
 
 clean:
-  rm -r public/*
-  rm -r resources/*
+  rm -rf public/*
+  rm -rf resources/*
 
 build: clean
   hugo
 
-new post-name:
-  hugo new content content/posts/{{today}}-{{post-name}}.md
