@@ -3,6 +3,32 @@ languageCode = "en-us"
 title = "Exploration #5"
 theme = "hugo-theme-relearn"
 
+# required value to serve this page from a webserver AND the file system
+relativeURLs = true
+
+[[menu.shortcuts]]
+pre = '<i class="fa-fw fab fa-github"></i> '
+name = 'GitHub Repo'
+url = 'https://github.com/onlyhavecans/web-exploration5'
+weight = 10
+
+[[menu.shortcuts]]
+pre = '<i class="fa-fw fas fa-tags"></i> '
+name = 'Tags'
+pageRef = '/tags'
+weight = 30
+
+[[menu.shortcuts]]
+pre = '<i class="fa-fw fas fa-layer-group"></i> '
+name = 'Categories'
+pageRef = '/categories'
+weight = 40
+
+[[menu.shortcuts]]
+pre = '<i class="fa-fw fas fa-link"></i> '
+name = 'About Me'
+url = 'https://wearing.black'
+weight = 50
 
 [params]
 themeVariant = 'zen-light'

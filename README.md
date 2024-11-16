@@ -1,22 +1,7 @@
 # Exploration \#5
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3ecf8133-3fc8-4617-82d0-f8a39b84b843/deploy-status)](https://app.netlify.com/sites/critic-whistles-17050/deploys)
+
 All of my TTRPG notes and games.
 
-Uses https://mcshelby.github.io/hugo-theme-relearn/introduction/quickstart/index.html
-
-
-## Quick Commands
-
-Game (Chapter)
-
-```bash
-hugo new --kind chapter game-name/_index.md
-```
-
-Sessions (pages)
-
-```bash
-hugo new first-chapter/first-page/_index.md
-hugo new first-chapter/second-page/index.md
-hugo new first-chapter/third-page.md
-```
+Uses the [Relearn theme](https://mcshelby.github.io/hugo-theme-relearn/introduction/quickstart/index.html)
