@@ -1,5 +1,5 @@
 ---
-title: {{ replace .Name "-" " " | title }}
+title: '{{ replace .Name "-" " " | title }}'
 type: chapter
 weight: 1
 ---

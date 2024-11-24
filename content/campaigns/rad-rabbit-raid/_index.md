@@ -1,5 +1,8 @@
 ---
 title: Rad Rabbit Raid
+tags:
+  - fate
+type: campaign
 ---
 
 ## Setting

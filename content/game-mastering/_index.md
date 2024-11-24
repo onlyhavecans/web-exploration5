@@ -4,4 +4,8 @@ type: chapter
 weight: 2
 ---
 
-This is a new chapter.
+Here is a collection of notes and tools for when I am running games!
+
+Feel free to beg borrow and steal parts or all of it.
+
+{{% children containerstyle="div" description=false %}}

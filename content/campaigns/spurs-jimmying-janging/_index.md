@@ -1,6 +1,8 @@
 ---
 title: Spurs Jimmying & Jangling
 type: chapter
+tags:
+  - gurps
 ---
 
 ## Setting

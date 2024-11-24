@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "themes/",
+    "public/"
+  ],
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./",
+  "newFileLocation": "current"
+}

@@ -4,4 +4,8 @@ type: chapter
 weight: 3
 ---
 
-{{% children containerstyle="div" style="h2" description=false %}}
+In no particular order, all the campaigns I have run that I documented.
+
+One-Shots are not included.
+
+{{% children containerstyle="div" description=false %}}

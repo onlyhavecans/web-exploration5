@@ -15,3 +15,9 @@ Here are notes on how I GM.
 
 ## [My Campaigns](campaigns/)
 In here are campaign and session notes from all of my games. This section is primarily for other players in my games, but feel free to read out stories!
+
+## [Player Campaigns](player/)
+I take notes for games I am player in too!
+
+## [Idea Pile](idea-pile/)
+This is where I work on ideas for upcoming campaigns or sessions. So beware spoilers
