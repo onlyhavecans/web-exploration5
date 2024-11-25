@@ -5,25 +5,28 @@ tags:
 weight: 1
 ---
 
-Powered by the Apocalypse, by which we mean Agency and Consent.
-Powered by the Apocalypse, by which we mean influenced by and pays homage to Apocalypse World.
-Not necessarily Powered by the Apocalypse, by which we mean 2d6 and playbooks and moves. However, that is a thing.
+- Powered by the Apocalypse, by which we mean Agency and Consent.
+- Powered by the Apocalypse, by which we mean influenced by and pays homage to Apocalypse World.
+- Not necessarily Powered by the Apocalypse, by which we mean 2d6 and playbooks and moves. However, that is a thing.
 
 D&D and [Fate]({{% relref "FATE" %}}) are power fantasy games. Their mechanics often focus on if you can do something or not.
 Powered by the Apocalypse is not a power fantasy game; there is a lot of mess. There isn't even a crit system.
 
 PbtA's moves are narrative-focused, not mechanic-focused.
+
 PbtA's mechanics are less focused on how you accomplish something and more about narrative control. In most PbtA games, emotional stakes are the central focus of the moves over mechanical aspects, where it is usually assumed you more or less _can_ do anything.
 
 PbtA is the best system so far at telling stories about being in the messy middle. You will mostly have mixed beat rolls, where a player succeeds with consequences.
 Monsterhearts recommends keeping the story feral, and this fits many games, letting the story's messy, chaotic momentum guide it forward. At any given moment, focus on reacting to the other players. Allow others to foil your plans or improve upon them. Trust that a good story emerges from wildness. Play to find out what happens next. Let yourself be surprised.
 
 Conversely, D&D (and similar games) creates the expectation that you might die if you prepare the wrong spells, don't buy the correct item, or don't do a perception check on the door. If you are not fully prepared and do not have a capital p Plan, you will be punished.
+
 PbtA generally doesn't do that; character optimization and advanced planning are less of a thing. You are not punished for lack of forethought, enabling you to explore haphazardly and messily with relative (physical) safety.
 
 Before you play, spend a lot of time clarifying what the game is and offers and getting the player's explicit buy-in. Some players are surprised it's not D&D, does not offer combat as an easy/standard solution, or is not on rails.
 
 Keep in mind there is no comprehensive way to run ALL PbtA games since the games vary so much. For instance, Apocalypse World and Monsterhearts are designed for PvP, and the role of the gm is to keep the escalation snowball going and gently guide it, but it can be much more hands-off.
+
 Compare Apocalypse World's guidance that NPCs are expendable with Thirsty Sword Lesbians' safety measures helping NPCs feel like people, not playthings.
 
 There are not a lot of moves because you want players to be more or less able to keep them in their heads. There shouldn't be vague moves that double dip. If there isn't a move for something, it's not significant behavior to the system.
@@ -31,13 +34,14 @@ There are not a lot of moves because you want players to be more or less able to
 A lot of PbtA it's about making a story with the players, not building a world and story around them
 
 ## The Players Telling the Game
-PbtA is about being a lazy GM.
-1.5h prep time per session at worst/best.
-Most PbtA settings are about a page.
-Don't even set the world too much; let this build out as the game goes.
-Most of the narrative comes from the players; the GM reacts to what they create.
+- PbtA is about being a lazy GM.
+- 1.5h prep time per session at worst/best.
+- Most PbtA settings are about a page.
+- Don't even set the world too much; let this build out as the game goes.
+- Most of the narrative comes from the players; the GM reacts to what they create.
 
 Always leave space for players to come up with content. Never resist; lean into whatever gets added.
+
 The majority of disaster PbtA games come from when you prepared too much or were too attached to what ideas you had. Don't fight the 'yes,' always go with them.
 
 The maximum tier of players telling the game is when players ask you questions, **tell them you don't know, and ask them what they think**.
@@ -100,9 +104,9 @@ These impending actions are GM moves you can use in a pinch.
 If characters don't engage with fronts, drop them. Set up other ones that tickle the players.
 
 ## Rolls and Moves
-The GM should never roll.
-Players should only roll when there are exciting and possibly messy results to come from it.
-If the outcome of the move doesn't drive the story, then don't have a move. If you don't have a move for what the player tries to do, then let it go. Make it a yes.
+- The GM should never roll.
+- Players should only roll when there are exciting and possibly messy results to come from it.
+- If the outcome of the move doesn't drive the story, then don't have a move. If you don't have a move for what the player tries to do, then let it go. Make it a yes.
 
 Keep in mind the trigger for any move is in the move. It tells you what happens on a mixed beat or up beat.
 
@@ -113,6 +117,7 @@ A mixed beat is a success with complications, and the game emphasizes the messy 
 Try to ask the players about the consequences of their mixed successes and bonus points for doing this before the roll.
 
 On a down beat, there are no move instructions to describe what happens. This is because you grab from the GM moves/reactions.
+
 **Don't make a downbeat a failure or a nothing happens; that stops play.** Make it a mistake or a success they wish they hadn't had. Turning the move back on them is also a common way of looking at how to handle a down beat.
 Practice having things fail it forward when they get a down beat.
 
@@ -137,4 +142,5 @@ Add a layer of something fascinating to everybody.
 
 ## Playing
 To do it, do it. Try to guide your players to embrace it and move forward, not hedge their bets.
+
 The GM is your fan; it's not adversarial.
