@@ -51,13 +51,22 @@ Below are my personal lines and veils, these are the baseline for any game I am 
 - Drug Abuse/Control with Addictive Substances
 
 ## Requirement of Consent for Adverse Character Interactions
-I maintain hard out-of-game limits for any player-versus-player conflict; No character can adversely affect another character without their player's consent.
+I strictly enforce out-of-character (OOC) discussion and consent for any in-character (IC) conflict; i.e., No character can adversely affect another character without their player's consent[^1]. Any attempt to use the game to antagonize other players will be considered a violation. If multiple players' consensual conflict becomes a deterrent to the game or other players' enjoyment, they must resolve it ICly or retcon.
+
+[^1]: With all credit to [Sly Flourish](https://slyflourish.com/player_consent.html) for this idea which aligns very well with my desires.
 
 This includes but is not limited to;
-- You cannot charm or dominate your fellow companion if their character doesn't agree.
-- You cannot roll persuasion or deception checks against another character expecting the character to behave a certain way when it fails unless the other player is good with it.
-- You cannot fireball your fighter friend no matter how many cultists of Talos they're surrounded by unless they say "do it".
+- You cannot charm, dominate, or seduce your fellow companion if their character doesn't agree.
+- You cannot roll persuasion or deception checks against another character expecting the character to behave a certain way unless the other player is good with it.
+You cannot fireball your fighter friend, no matter how many werewolves they're surrounded by, unless they say, "Do it."
 - You cannot steal another character's stuff unless that character's player is good with it.
 - You cannot attack another character unless both players are into it.
 
 No Lines, Veils, or Excited For supersedes this rule.
+
+### Subsection §42(a) Part 1: The "Murder Hobo" addendum.
+This requirement does _not_ globally apply to NPCs and the world itself but has an important addendum. 
+
+If somebody has become unhappy or disenfranchised with the game or the direction the party/story has gone, they are required to bring it up to the GM and/or entire table out-of-character to resolve or leave the table. Taking out frustrations on the rest of the people at the table by becoming destructive at the detriment of the enjoyment of others is not allowed and will result in ejection from the game.
+
+Kicking the board over because you stopped having fun is inexcusable for all but the youngest children. However, leaving because you are not having fun is always allowed. If it is a paid game, you will be refunded for the session you voluntarily leave because you are not having fun, and at the GM's discretion, the entire season may be refunded. 
