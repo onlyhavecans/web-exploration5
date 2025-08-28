@@ -4,7 +4,7 @@ title = "Exploration #5"
 theme = "hugo-theme-relearn"
 
 [[menu.shortcuts]]
-pre = '<i class="fa-fw fab fa-forgejo"></i> '
+pre = '<i class="fa-brands fa-git-alt"></i> '
 name = 'Git Repo'
 url = 'https://onlyhavecans.works/onlyhavecans/web-exploration5'
 weight = 10
