@@ -13,7 +13,7 @@ Let each player riff for two minutes at the end of any episode, season, or one-s
 
 ## End-of-session Experience
 _Based on the game, read the notes._
-[FATE](FATE)
+[FATE](games/FATE)
 [Thirsty Sword Lesbians](Thirsty Sword Lesbians)
 [Monster of the Week](Monster of the Week)
 
