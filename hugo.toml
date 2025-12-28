@@ -5,20 +5,24 @@ theme = "hugo-theme-relearn"
 
 [[menu.shortcuts]]
 pre = '<i class="fa-brands fa-git-alt"></i> '
-name = 'Git Repo'
-url = 'https://onlyhavecans.works/onlyhavecans/web-exploration5'
+name = "Git Repo"
+url = "https://onlyhavecans.works/www/exploration5.games"
 weight = 10
 
 [[menu.shortcuts]]
 pre = '<i class="fa-fw fas fa-tags"></i> '
-name = 'Tags'
-pageRef = '/tags'
+name = "Tags"
+pageRef = "/tags"
 weight = 30
 
 [params]
-themeVariant = 'zen-light'
+themeVariant = "zen-light"
+linkTitle = ""
+
+[params.logo]
+direction = "column"
 
 [outputs]
-home = ['html', 'rss', 'print']
-page = ['html', 'rss', 'print']
-section = ['html', 'rss', 'print']
+home = ["html", "rss", "print"]
+page = ["html", "rss", "print"]
+section = ["html", "rss", "print"]
