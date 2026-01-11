@@ -26,3 +26,6 @@ direction = "column"
 home = ["html", "rss", "print"]
 page = ["html", "rss", "print"]
 section = ["html", "rss", "print"]
+
+[markup.goldmark.parser.attribute]
+block = true
