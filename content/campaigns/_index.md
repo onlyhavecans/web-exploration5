@@ -8,4 +8,4 @@ In no particular order, all the campaigns I have run that I documented.
 
 One-Shots are not included.
 
-{{% children type=tree description=false %}}
+{{% pages description="false" display="tree" %}}
